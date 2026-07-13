@@ -4,8 +4,8 @@ require("dotenv").config();
 
 module.exports = {
   token: process.env.TOKEN ?? "no-token",
-  authDevelopers: ["1214250364597960775"],
-  authOwners: ["1214250364597960775"],
+  authDevelopers: ["758295957271347201"],
+  authOwners: ["758295957271347201"],
   webhook: {
     name: "AuthBot",
     avatar: "",
@@ -21,7 +21,7 @@ module.exports = {
     redirect_uri: "https://hadja-sadas.onrender.com/auth",
     scope: ["identify", "guilds.join"],
     footer: "AuthBot v1.0.0",
-    serverLink: "https://discord.gg/49aqUBvQV4",
+    serverLink: "https://discord.gg/tyVzXDNjre",
   },
   web: {
     port: 319,
