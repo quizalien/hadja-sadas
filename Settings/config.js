@@ -16,7 +16,7 @@ module.exports = {
     role: "1214280471496892516",
   },
   client: {
-    id: "1216103189116616834",
+    id: "1526213490795216987",
     secret: process.env.SECRET ?? "no-secret",
     redirect_uri: "https://hadja-sadas-1.onrender.com/auth",
     scope: ["identify", "guilds.join"],
